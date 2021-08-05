@@ -9,4 +9,4 @@ function mesinCuci (nama, jumlahBaju) {
     }   
 }
 
-mesinCuci("Adri",10);
+mesinCuci("Adri",30);
