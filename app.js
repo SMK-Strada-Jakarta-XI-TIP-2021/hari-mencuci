@@ -19,7 +19,6 @@ function mesinCuci(nama, jmlhpakaian) {
     let x = 1;
     while (x < jmlhpakaian) {
         console.log(nama + ' sedang memasukan pakaian sebanyak ' + x + ' lembar.');
-
         x++;
     }
 
