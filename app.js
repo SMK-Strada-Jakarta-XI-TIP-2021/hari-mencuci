@@ -1,6 +1,6 @@
 // Tulis Kode Kamu di bawah ini
+
 function mesinCuci(nama, jumlahPakaian) {
-    // membuat perulangan dengan while
     var i = 0;
     while (i < jumlahPakaian)  {
         i++;  
@@ -9,4 +9,4 @@ function mesinCuci(nama, jumlahPakaian) {
     console.log(nama + ' sudah memasukan semua pakaian ' + i + ' lembar dan mesin cuci otomatis menyala.');
 }
 
-mesinCuci('Joaquin', 30);
+('Joaquin', 30);
