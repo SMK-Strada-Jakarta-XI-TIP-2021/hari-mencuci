@@ -1,8 +1,8 @@
 // Tulis Kode Kamu di bawah ini
-function mesinCuci (nama, jumlahBaju) {
-    for (i = 1; i <= jumlahBaju; i++) {
-        console.log(nama + " " + 'Anda sudah memasukan' + " " + jumlahBaju + " " + 'lembar pakaian');
-        if (i === jumlahBaju) {
+function mesinCuci (nama, totalBaju) {
+    for (i = 1; i <= totalBaju; i++) {
+        console.log(nama + " " + 'memasukan baju ==>' + " " + totalBaju + " " + 'lembar pakaian');
+        if (i === totalBaju) {
             console.log ("mesin cuci terhenti !");
             break;
         }
